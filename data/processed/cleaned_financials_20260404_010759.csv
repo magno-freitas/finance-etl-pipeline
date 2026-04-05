@@ -1,0 +1,355 @@
+payment_date,client_description,amount_brl,status,observations,_source_file,_load_timestamp
+2026-03-27,da Costa S.A.,2805209982317467.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-10,Marques,2515259597904946.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Castro,1680.47,PENDENTE,Iusto nobis.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-23,Mendonça,3370752372179662.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-16,Nunes - EI,2881142636031059.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-17,Cassiano,1478379310345078.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-15,Lima e Filhos,3030771754493938.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-14,Lima,3103651717364043.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,da Conceição,,PAGO,Explicabo quod.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-19,Almeida Andrade - ME,4219011710392019.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-12,Castro Fonseca S.A.,3859273595725343.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Ribeiro S.A.,2150.59,PAGO,Exercitationem.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-09,Azevedo Aparecida S/A,3210162177685981.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-28,da Paz Campos - ME,3375819165298943.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Cirino S/A,,PAGO,Maxime nulla.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-18,Lopes S.A.,427154927295282.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-15,Lima Viana Ltda.,3205321844114985.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-06,Souza Pimenta Ltda.,4276592195670153.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-18,Rezende,4605347012220571.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-24,Ribeiro,2121352075874207.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-21,Novais Almeida Ltda.,1071410302984016.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Fogaça,,PAGO,Ipsam temporibus.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-21,Ribeiro,1090773178949123.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-23,da Cunha,2820136846567871.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-07,Costela Azevedo - EI,3892962736180476.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-29,Castro,3131808882273056.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Viana,1159.47,CANCELADO,Ipsam distinctio.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-24,Vargas,8360188720541447.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-12,Guerra - ME,6396053045580808.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-22,Siqueira,1638059856871168.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-08,Martins Pereira e Filhos,1510210878706056.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Cunha,,PAGO,Error dolorem.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-28,Vieira - EI,4785896258605741.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Albuquerque,290.46,PENDENTE,Aspernatur.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Barros - ME,1904.29,CANCELADO,Minus voluptatum.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-28,Fonseca,1441823363026738.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-31,Cirino,4919809804339627.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-25,Pereira Freitas - EI,1189609241740239.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-04-01,Abreu S.A.,296565602450579.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-11,Castro,2739948602847013.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Abreu,191.49,PENDENTE,Minus expedita sunt.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-25,da Costa,2852903779002716.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-29,Vargas S/A,3804551186495966.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,da Cruz,1470.15,PAGO,Earum voluptatibus.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-22,Silva S/A,3186170873977173.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-04-03,Garcia,4030357274024176.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-27,Pimenta Montenegro e Filhos,1020685131923185.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-27,Moreira da Costa - ME,1128701851605146.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-04-01,Moura Novais S/A,4146403111469024.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Sales Mendonça S/A,,CANCELADO,Minima suscipit.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-20,da Rocha Azevedo S/A,2933099824391813.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-05,Sá S.A.,1130258690183533.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-27,Dias S/A,2123534888508188.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-29,Souza Vasconcelos S/A,1314769687865963.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-09,Brito,8530433019666564.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-27,Sampaio e Filhos,3843826159501363.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-06,Fogaça Costa - EI,4640024567883301.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Macedo,,PENDENTE,Sit eum error.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,da Rosa,1073.49,PAGO,Vitae deleniti iure.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-18,Viana,1642202138965295.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-19,Camargo Santos - ME,3217937901273488.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-05,Freitas,1247247530800261.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Ribeiro Barros S.A.,361.3,PAGO,Suscipit reiciendis.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-04-01,Novaes,2309669275468827.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Albuquerque,456.66,,Repellendus.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-05,Machado S/A,3820290710915729.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-09,Souza Castro Ltda.,4223649946134889.0,CANCELADO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-10,Aragão,4461569685389549.0,PENDENTE,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-03-14,Gomes Gonçalves - ME,5402005849877022.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Guerra,2762.57,PAGO,Mollitia omnis.,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+2026-04-03,Casa Grande,2824618402692392.0,PAGO,,base_wagner_v0_final.xlsx,2026-04-04 01:07:59.085022
+,Freitas Rios Ltda.,3720.91,CANCELADO,Reprehenderit qui.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-24,Gomes,9415373243448654.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-13,Rios,4180200884766759.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Rios,3454.37,,Iusto saepe.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-16,Vargas,4089632850502087.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-17,Moreira Aragão Ltda.,4656954035050096.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,da Rocha,4434.08,PAGO,Dolorum ratione.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Costa S.A.,3885.38,,Laborum.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-13,Abreu,4683304818507921.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-30,Andrade,2865669088019152.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-27,Caldeira,1728757493611032.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-29,Dias,4728616889827946.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-26,Ferreira Cavalcante S.A.,4457993309718069.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-31,Correia,3236807462590308.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-21,Sampaio da Cruz S.A.,1264486506867136.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-10,Porto Ferreira S.A.,2757605935594408.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-09,Sá S.A.,2828390452761519.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Aragão Brito S/A,,CANCELADO,Nam provident.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Lima,,,Doloremque natus.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-15,Jesus - ME,199545512243073.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Sousa,,PAGO,Impedit ab dolor.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-04-01,Jesus S.A.,397303261476749.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-26,Casa Grande das Neves e Filhos,4323383725631988.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-04-03,Santos Marques S/A,4184469747176585.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-04-01,da Mata S.A.,2961603590157633.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-04-02,Montenegro Ltda.,4499766467849883.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Vasconcelos,682.64,PAGO,Alias eligendi.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-04-01,Peixoto,1145295656846409.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-30,da Rosa,9894326658396320.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-07,Lopes,2969811879911944.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-30,Novaes,4911273904972712.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-25,Araújo Pimenta - EI,2301168365877199.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-31,Porto,3649171626160041.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-20,Almeida Andrade e Filhos,1486195253725199.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Rocha,,PAGO,Rem dolorem eum.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-28,Lopes - ME,2011345189443694.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-04-03,Dias,4203358153348469.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Fonseca,930.5,PAGO,Voluptatum sunt hic.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Costa,,PENDENTE,Inventore quod et.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Abreu,,PENDENTE,Esse quidem ducimus.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Guerra,4621.61,,Blanditiis cum.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Novais,,PENDENTE,Eos itaque odit.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-26,Cunha,4286943200205174.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-11,Sousa das Neves S.A.,2269502673829966.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-04-01,Caldeira Sousa - ME,191570945395502.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-06,Lima S.A.,2312487922854063.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-19,Ferreira S.A.,7590078241501541.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-28,Sá,1253323219115123.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-08,Campos e Filhos,4293009386994377.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-30,Camargo Ltda.,1724347250209905.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-22,da Mota Rocha - EI,2447820199192854.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-29,Rios Ltda.,4804397017953133.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-29,Nogueira S/A,460176659523521.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,da Paz Fogaça S/A,4964.7,CANCELADO,Facere autem.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-27,da Rosa,3203243027947322.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,da Paz - EI,1436.26,PENDENTE,Delectus dolor.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-09,Santos,3919530901338132.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-17,Cirino,1399625524995588.0,CANCELADO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-13,Freitas Sampaio S/A,3591897821080865.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-18,Aragão Rocha Ltda.,2818002206883656.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Almeida Pereira - EI,4003.78,PENDENTE,Sunt facilis.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-07,Vasconcelos - EI,2868256745616507.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Siqueira S/A,1570.31,PENDENTE,Praesentium optio.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Cavalcanti Pastor S.A.,483.52,,Optio magnam ea.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Pimenta Silva - ME,,CANCELADO,Dignissimos nihil.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Pinto,,,Illo nemo vero.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-05,Santos S.A.,2671735669281488.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-13,Barbosa S/A,2066288440134373.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-11,Aragão Nunes - EI,1569840037183817.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Teixeira S.A.,,,Totam totam ad.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,da Rocha Ltda.,3689.25,PAGO,Tenetur dolorum.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-30,Moreira,2988906763573223.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+,Marques Pinto - EI,4159.14,PAGO,Mollitia officia.,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-16,Câmara e Filhos,5633828538491791.0,PAGO,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-04-01,Correia,4482609878533191.0,PENDENTE,,base_wagner_v1_final.xlsx,2026-04-04 01:07:59.195380
+2026-03-05,Fonseca Gonçalves - ME,2115447931006951.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Correia - EI,,PAGO,Suscipit incidunt.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-30,Rocha S/A,1171161146632329.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-19,Campos Guerra e Filhos,3950068756144947.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Ferreira Ferreira e Filhos,,PAGO,Quia repudiandae.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-24,Sousa Teixeira S/A,406540950714038.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Camargo,,PENDENTE,Fuga nostrum iste.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Sampaio,,PENDENTE,Quo molestiae et at.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,da Rocha,199.92,PAGO,Nihil eligendi sed.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-24,Teixeira Gonçalves Ltda.,1693424595799904.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-30,Câmara da Rosa - ME,138165150693263.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-26,Aparecida - EI,1832621000389018.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-15,da Mata S/A,5446589996595212.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-13,Barbosa,4013573740194341.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Machado,703.75,PENDENTE,Magni nemo esse.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-31,Vasconcelos Silveira - ME,330004563956445.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Macedo Fonseca - ME,,PENDENTE,Eveniet debitis.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-16,Fonseca Ltda.,4735750679110119.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-30,Vieira,3358260986361361.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Farias - EI,2481.14,PENDENTE,Officia sit.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-08,Rodrigues,2716863876725761.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-12,Cardoso da Conceição S.A.,1202142961572989.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-11,Fernandes,1822521563190375.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Araújo,,PAGO,Rem quos nisi modi.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Pacheco Oliveira e Filhos,,CANCELADO,Facere soluta.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-14,Fernandes da Costa S.A.,3935680213396205.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-17,Cunha da Rosa S.A.,3949681806226662.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Vargas,,PENDENTE,Eveniet nulla.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-10,da Paz,3084550469295228.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Carvalho Nascimento - EI,2719.82,,Nihil ex hic aut.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-16,Macedo Fonseca - ME,1317821892160296.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Silveira Duarte - ME,1358.56,PAGO,Eaque praesentium.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-31,Moraes,186642354651621.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-07,Lima,3100221914939641.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-10,Machado Gonçalves S/A,198947187421176.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-31,Dias,2915423609006397.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-08,Moreira - EI,4798065714755673.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-04-02,Cavalcanti Novaes - ME,3588090089910483.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-12,Lopes - EI,2373091610675775.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-22,Castro,1661298117622827.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-16,Gonçalves Câmara - ME,3480473592789992.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-26,Garcia S.A.,3931874193379952.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-10,Câmara,4410767958427903.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-20,Cassiano,708739795046595.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-04-03,Camargo,1661835751013721.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Souza,,PENDENTE,Accusamus maiores.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-07,Nascimento,1423066192949285.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Câmara,,PENDENTE,Ut maiores.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-22,Nunes Moura e Filhos,3567263767806342.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Silva Ltda.,2530.95,PENDENTE,Et natus qui culpa.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-30,Albuquerque e Filhos,2390844242969386.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Borges,,,Saepe nobis magnam.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-06,Câmara S/A,4813586582776919.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-26,Marques,1445603668327017.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Sampaio - ME,419.03,CANCELADO,Necessitatibus eum.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-13,Pires,2884449698963749.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-09,Melo,3794314078369883.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-12,Silveira,4281849101009238.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Rios Cunha - ME,3146.65,PENDENTE,Eveniet blanditiis.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-04-03,Correia,4274847596976103.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-17,Vieira,6218055109417359.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-15,Gomes,1172280671414224.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-26,Lopes,4589601496497976.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-26,Pinto Ltda.,4457521510509026.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-25,Câmara,1029276666760665.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-20,Sampaio Pereira S.A.,1583691459543636.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Borges Vasconcelos S.A.,,PENDENTE,Quia asperiores.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-05,Gomes Correia S/A,4109060143228398.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Cavalcante,2088.4,,Ullam blanditiis.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-07,Ferreira,1830852827830186.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-04-01,Cirino,4272996266114437.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-28,Guerra e Filhos,5361171923488553.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-30,Moreira,3269496535056731.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-26,da Cunha da Luz e Filhos,6981786455630755.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Macedo S.A.,,PENDENTE,Deleniti deleniti.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-25,Moura,3447251843419672.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-29,Ribeiro,2079581342342179.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Lima,,PENDENTE,Veniam placeat.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Souza Aragão - EI,,PENDENTE,Provident deleniti.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-18,da Cruz,9481693805264332.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-12,Alves - ME,9229177723794884.0,PAGO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-07,Fernandes - ME,4070264518063145.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-26,Moreira,4785806350942546.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-17,Ribeiro,3582436102444934.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,Sampaio,,CANCELADO,Animi illo.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,da Mota,,PENDENTE,Tempore dolore.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-04-03,Costela,4015352976796173.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-25,Brito Moraes S.A.,430230408832697.0,PENDENTE,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-27,Abreu,1189726450645619.0,CANCELADO,,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+,das Neves e Filhos,3277.64,PENDENTE,Nihil voluptate.,base_wagner_v2_final.xlsx,2026-04-04 01:07:59.279456
+2026-03-12,Cavalcanti Cirino - ME,3580093276664791.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-21,Pinto,2732719186340484.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Moraes S.A.,1455.16,,Dolores unde.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-08,Nogueira Macedo - EI,1773339202525444.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Fonseca Ltda.,4385.04,CANCELADO,Esse aperiam porro.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-17,da Rosa - EI,3989068804167882.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Vieira,4753.79,,Dolore ab quae.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Alves Moreira e Filhos,2155.18,PAGO,Incidunt ducimus et.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-26,Campos,3390236007881171.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-17,Vieira Oliveira S/A,4421610539755421.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-09,Abreu da Paz - ME,8855821069162319.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-19,Souza,446854189042552.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-20,Sousa,4313789568228115.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-15,Cirino Guerra - EI,3307404431957892.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Moreira Farias - ME,4010.57,CANCELADO,Eligendi beatae.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,da Rosa - EI,3274.32,PENDENTE,Voluptas temporibus.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Rodrigues,,PENDENTE,Consequuntur a illo.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-04-02,Costa Pereira Ltda.,1240115953186195.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-23,Andrade Santos Ltda.,2144309013963227.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-15,da Cruz,9439870568403364.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-14,Andrade Peixoto S.A.,4801980059555466.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,da Costa,,CANCELADO,Facere asperiores.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-17,Casa Grande,3942671907911608.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Rezende,4750.47,PENDENTE,Repellendus nobis.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-07,Montenegro da Rocha - EI,4159683578773253.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-13,Abreu,2526259324138651.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-04-01,Jesus Ltda.,4615402185778845.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-06,Peixoto,3362352204997732.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-04-03,Almeida e Filhos,5064746213979418.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-31,Monteiro S.A.,4534393589431302.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-08,Vieira,2600483769271912.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Viana,973.99,PENDENTE,Eligendi dolores.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-14,Moraes - ME,655403156900399.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-14,Moraes,3719870456662615.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Farias Melo e Filhos,2931.57,PENDENTE,Modi quam.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-08,Rocha - ME,2314423023995359.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-22,Aparecida Rocha - ME,4409930886619822.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Aragão Lima S.A.,,CANCELADO,Facilis dolorem.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-13,Silva,4006417111224768.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-11,Souza Vieira - ME,489984472765127.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-06,Cavalcante Ribeiro Ltda.,1082687935853837.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-24,da Rocha da Cunha e Filhos,4767427767531473.0,PAGO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Mendonça Novaes Ltda.,,CANCELADO,Tenetur deleniti.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Freitas Ltda.,486.43,PAGO,Fuga aperiam.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-13,Castro - EI,499528759036966.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+,Câmara,1487.25,PENDENTE,Illum sequi libero.,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-18,Guerra,2759014389392109.0,CANCELADO,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-26,Andrade,3815095705107476.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-05,Silveira S.A.,2919827851706068.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-21,Freitas,944113915596045.0,PENDENTE,,financeiro_fechamento_pt0.xlsx,2026-04-04 01:07:59.345189
+2026-03-22,Teixeira - ME,4138692973253813.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-04-01,da Cruz e Filhos,5939740299661098.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-16,Duarte - EI,2229621641527855.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-22,Peixoto,4352040348781742.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-27,Mendes,840662680887455.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Ribeiro,,,Quibusdam suscipit.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-21,Mendes Ltda.,3098883406996993.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-15,Sales Marques - EI,982925942530809.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-29,da Paz Rocha S/A,4667470125904388.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-07,Jesus S/A,1664486477690966.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Câmara,,PENDENTE,Necessitatibus unde.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-29,Pires S.A.,8805102219921151.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-16,da Mota,2332390780426879.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Duarte,,PENDENTE,Expedita quae.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-17,Pereira e Filhos,482161987809044.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-27,Macedo S.A.,2899679597020527.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-26,Correia,1340929099090492.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-14,Pinto,5871308439646476.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Vasconcelos Correia Ltda.,1117.6,PAGO,Occaecati sint.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-20,Nascimento da Conceição S/A,2674098770530617.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Cardoso,,PENDENTE,Eveniet magnam.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Rezende e Filhos,,,Atque voluptatum.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-04-01,da Cruz Ltda.,1125617378302021.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Abreu,4338.27,,Reiciendis mollitia.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-28,Vieira - ME,4694185377661434.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Vasconcelos,3834.77,PENDENTE,Voluptatibus est.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-26,Cavalcanti,152139389180995.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-11,Aragão S/A,1461836136263113.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-08,Araújo - ME,3613863449550725.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-29,da Rocha,3786967334829385.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-11,Leão S.A.,4990908712352297.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-05,Martins Cassiano S/A,3948355636282186.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-31,Aparecida,2170485029538322.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-09,da Rocha S.A.,1783663690784196.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-08,Guerra,9322081942425308.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-06,Melo,2471450551193493.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Oliveira,2549.04,CANCELADO,Earum mollitia.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+,Sampaio S/A,,,Quo minima fugiat.,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-04-02,Leão Aragão Ltda.,1798048739002272.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-20,Oliveira Gonçalves - EI,1955853394556402.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-07,Dias Garcia S.A.,1328533600420297.0,CANCELADO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-04-02,da Mata,1138071389297887.0,PAGO,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-13,Vargas S.A.,2979249662195285.0,PENDENTE,,financeiro_fechamento_pt1.xlsx,2026-04-04 01:07:59.390389
+2026-03-08,Macedo Rodrigues e Filhos,4512881707013463.0,CANCELADO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-10,Fonseca - ME,2886973668622033.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-19,Moreira Barbosa - EI,3698741063331398.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-30,Pereira Correia S.A.,1052649051234417.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-15,Cunha,1646361862842256.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-28,Moreira S/A,3242386483303706.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-29,Ramos S/A,1895043892317433.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-14,da Costa e Filhos,4971501702589662.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-06,Campos e Filhos,3070133079341113.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+,Fonseca S/A,2284.46,PAGO,Maxime ab rem id.,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-28,Santos,1679098165616119.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-14,Correia,1806144195469347.0,CANCELADO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-22,Moraes - EI,4820122907536304.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-23,Freitas e Filhos,2649552374258242.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-29,Aragão,1464324498445185.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-04-02,da Cruz,7644872188212911.0,CANCELADO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-09,Costa,3530510447335927.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+,Nascimento,,PENDENTE,Voluptatum aut.,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-09,Sousa S/A,8464306997529202.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-14,Rios - EI,7404422676643707.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-20,Costela,4485261498574046.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-31,da Conceição da Paz S/A,123636981918853.0,CANCELADO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-06,Rodrigues,3318495096813447.0,PAGO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-15,da Rocha,3437027708394098.0,CANCELADO,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377
+2026-03-14,Brito,3725249295346607.0,PENDENTE,,Relatorio_Fin_20260404_2.xlsx,2026-04-04 01:07:59.505377

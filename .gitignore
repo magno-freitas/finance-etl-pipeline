@@ -1,0 +1,10 @@
+﻿.env
+.gcp-credentials.json
+*.xlsx
+*.xls
+*.csv
+*.xlsm
+*.xlsb
+!data/mock/*.csv
+
+gcp-credentials*

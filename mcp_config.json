@@ -1,0 +1,15 @@
+﻿{
+  "mcpServers": {
+    "finance-bigquery": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-gcp-bigquery", "--project-id", "infios-finance-os-2026"],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\magno\\.gcp\\credentials.json"
+      }
+    },
+    "finance-system": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "C:\\Users\\magno\\OneDrive\\Documentos\\finance-etl-pipeline\\"]
+    }
+  }
+}
